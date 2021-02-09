@@ -1,0 +1,8 @@
+.titulo {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+table {
+    margin-top: 50px;
+}
